@@ -1,3 +1,3 @@
 # devpractice
 
-Repository used to practise Git
+Repository used to practise how to use Git
